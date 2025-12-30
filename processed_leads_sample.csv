@@ -1,0 +1,11 @@
+Name                 , First_Name, Last_Name    , Title                   , Company          , Domain             , Employment_Status, Email_1                              , Email_2
+Donna Johnson        , Donna     , Johnson      , Chief Marketing Officer , Inseego          , inseego.com        , Uncertain        , donna.johnson@inseego.com            , donna.johnson1@inseego.com
+Andreas Urschitz     , Andreas   , Urschitz     , CMO                     , Infineon         , infineon.com       , Likely Yes       , andreas.urschitz@infineon.com        , andrea.urschitz@infineon.com
+Julia Chen           , Julia     , Chen         , Vice President          , AWS              , amazon.com         , Uncertain        , julia.chen@amazon.com                , julia.chen+bounce@amazon.com
+Robert Occhialini    , Robert    , Occhialini   , Chief Technology Officer, World Surf League, worldsurfleague.com, Likely Yes       , robert.occhialini@worldsurfleague.com, rob.o@worldsurfleague.com
+Gabriel Romero       , Gabriel   , Romero       , Chief Marketing Officer , AllCloud         , .cloud             , Likely Yes       , gabriel@get.cloud                    , gabrielpablo@get.cloud
+Julie Neumann        , Julie     , Neumann      , Chief Marketing Officer , Honeycomb.io     , honeycomb.io       , Likely Yes.      , julie.neumann@honeycomb.io           , support@honeycomb.io
+Julia White          , Julia     , White        , Chief Marketing Officer , AWS              , aws                , Likely Yes       , jwhite@amazon.com                    , jwwhite@amazon.com
+Dimitri Vlachos      , Dimitri   , Vlachos      , Chief Marketing Officer , Spacelift        , spacelift.io       , Likely Yes       , dvlachos@spacelift.io                , dimitri.vlachos@spacelift.io
+Bhaskar Krishnamsetty, Bhaskar   , Krishnamsetty, Chief Product Officer   , Fabrix.ai        , fabrix.ai          , Uncertain        , Bhaskar.Krishnamsetty@cloudfabrix.com, BhaskarKrishnamsetty@cloudfabrix.com
+Rached Blili         , Rached    , Blili        , Distinguished Engineer  , Fabrix.ai        , cloudfabrix.com    , Likely Yes.      , rached.blli@cloudfabrix.com          , rachel.blili@cloudfabrix.com
